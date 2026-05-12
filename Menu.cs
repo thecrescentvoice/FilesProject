@@ -74,7 +74,6 @@ public class Menu
 
             case 9:
                 Console.WriteLine("Goodbye!");
-                Environment.Exit(0);
                 break;
 
             default:

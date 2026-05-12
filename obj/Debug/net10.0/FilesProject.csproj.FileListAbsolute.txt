@@ -12,3 +12,4 @@ C:\Users\HP\FilesProject\obj\Debug\net10.0\refint\FilesProject.dll
 C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.pdb
 C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.genruntimeconfig.cache
 C:\Users\HP\FilesProject\obj\Debug\net10.0\ref\FilesProject.dll
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.sourcelink.json
