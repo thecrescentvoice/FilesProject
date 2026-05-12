@@ -1,0 +1,14 @@
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.AssemblyInfoInputs.cache
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.AssemblyInfo.cs
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\FilesProject\bin\Debug\net10.0\FilesProject.exe
+C:\Users\HP\FilesProject\bin\Debug\net10.0\FilesProject.deps.json
+C:\Users\HP\FilesProject\bin\Debug\net10.0\FilesProject.runtimeconfig.json
+C:\Users\HP\FilesProject\bin\Debug\net10.0\FilesProject.dll
+C:\Users\HP\FilesProject\bin\Debug\net10.0\FilesProject.pdb
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.dll
+C:\Users\HP\FilesProject\obj\Debug\net10.0\refint\FilesProject.dll
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.pdb
+C:\Users\HP\FilesProject\obj\Debug\net10.0\FilesProject.genruntimeconfig.cache
+C:\Users\HP\FilesProject\obj\Debug\net10.0\ref\FilesProject.dll
